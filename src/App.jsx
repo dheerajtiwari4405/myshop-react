@@ -13,7 +13,11 @@ function App() {
     { id: 3, name: "Headphones", price: 1299, img: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500" },
     { id: 4, name: "Backpack", price: 899, img: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500" },
     { id: 5, name: "Smart Watch", price: 2499, img: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500" },
-    { id: 6, name: "Sunglasses", price: 699, img: "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500" }
+    { id: 6, name: "Sunglasses", price: 699, img: "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500" },
+    { id: 7, name: "Leather Wallet", price: 599, img: "https://images.unsplash.com/photo-1614330315526-166f2d71e544?=500" },
+    { id: 8, name: "Projector", price: 1499, img: "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=500" },
+    { id: 9, name: "Casual Sneakers", price: 1299, img: "https://images.unsplash.com/photo-1519744792095-2f2205e87b6f?w=500" },
+    { id: 10, name: "Wireless Earbuds", price: 1999, img: "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500" }
   ];
 
   const [cart, setCart] = useState([]);

@@ -4,7 +4,7 @@ function Footer() {
       <footer className="footer">
         <div className="footer-col">
           <h3>MyShop</h3>
-          <p>Ye meri khud ki banayi hui simple e-commerce website hai React me.</p>
+          <p>Visit our website for the latest deals and offers!</p>
         </div>
         <div className="footer-col">
           <h4>Quick Links</h4>
